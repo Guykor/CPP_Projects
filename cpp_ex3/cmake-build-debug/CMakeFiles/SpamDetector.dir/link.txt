@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SpamDetector.dir/SpamDetector.cpp.o  -o SpamDetector.exe -Wl,--out-implib,libSpamDetector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 /usr/lib/libboost_filesystem.dll.a /usr/lib/libboost_system.dll.a 
